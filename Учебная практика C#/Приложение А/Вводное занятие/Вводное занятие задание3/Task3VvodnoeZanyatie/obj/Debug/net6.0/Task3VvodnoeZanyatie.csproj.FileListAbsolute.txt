@@ -1,0 +1,14 @@
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Task3VvodnoeZanyatie\Task3VvodnoeZanyatie\bin\Debug\net6.0\Task3VvodnoeZanyatie.exe
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Task3VvodnoeZanyatie\Task3VvodnoeZanyatie\bin\Debug\net6.0\Task3VvodnoeZanyatie.deps.json
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Task3VvodnoeZanyatie\Task3VvodnoeZanyatie\bin\Debug\net6.0\Task3VvodnoeZanyatie.runtimeconfig.json
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Task3VvodnoeZanyatie\Task3VvodnoeZanyatie\bin\Debug\net6.0\Task3VvodnoeZanyatie.dll
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Task3VvodnoeZanyatie\Task3VvodnoeZanyatie\bin\Debug\net6.0\Task3VvodnoeZanyatie.pdb
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Task3VvodnoeZanyatie\Task3VvodnoeZanyatie\obj\Debug\net6.0\Task3VvodnoeZanyatie.GeneratedMSBuildEditorConfig.editorconfig
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Task3VvodnoeZanyatie\Task3VvodnoeZanyatie\obj\Debug\net6.0\Task3VvodnoeZanyatie.AssemblyInfoInputs.cache
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Task3VvodnoeZanyatie\Task3VvodnoeZanyatie\obj\Debug\net6.0\Task3VvodnoeZanyatie.AssemblyInfo.cs
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Task3VvodnoeZanyatie\Task3VvodnoeZanyatie\obj\Debug\net6.0\Task3VvodnoeZanyatie.csproj.CoreCompileInputs.cache
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Task3VvodnoeZanyatie\Task3VvodnoeZanyatie\obj\Debug\net6.0\Task3VvodnoeZanyatie.dll
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Task3VvodnoeZanyatie\Task3VvodnoeZanyatie\obj\Debug\net6.0\refint\Task3VvodnoeZanyatie.dll
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Task3VvodnoeZanyatie\Task3VvodnoeZanyatie\obj\Debug\net6.0\Task3VvodnoeZanyatie.pdb
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Task3VvodnoeZanyatie\Task3VvodnoeZanyatie\obj\Debug\net6.0\Task3VvodnoeZanyatie.genruntimeconfig.cache
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Task3VvodnoeZanyatie\Task3VvodnoeZanyatie\obj\Debug\net6.0\ref\Task3VvodnoeZanyatie.dll

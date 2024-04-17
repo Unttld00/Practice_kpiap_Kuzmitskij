@@ -1,0 +1,28 @@
+E:\Учебная практика C#\1\практическая часть\task4\task4\bin\Debug\net6.0\task4.exe
+E:\Учебная практика C#\1\практическая часть\task4\task4\bin\Debug\net6.0\task4.deps.json
+E:\Учебная практика C#\1\практическая часть\task4\task4\bin\Debug\net6.0\task4.runtimeconfig.json
+E:\Учебная практика C#\1\практическая часть\task4\task4\bin\Debug\net6.0\task4.dll
+E:\Учебная практика C#\1\практическая часть\task4\task4\bin\Debug\net6.0\task4.pdb
+E:\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\task4.AssemblyInfoInputs.cache
+E:\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\task4.AssemblyInfo.cs
+E:\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\task4.csproj.CoreCompileInputs.cache
+E:\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\task4.dll
+E:\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\refint\task4.dll
+E:\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\task4.pdb
+E:\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\task4.genruntimeconfig.cache
+E:\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\ref\task4.dll
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\1\практическая часть\task4\task4\bin\Debug\net6.0\task4.exe
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\1\практическая часть\task4\task4\bin\Debug\net6.0\task4.deps.json
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\1\практическая часть\task4\task4\bin\Debug\net6.0\task4.runtimeconfig.json
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\1\практическая часть\task4\task4\bin\Debug\net6.0\task4.dll
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\1\практическая часть\task4\task4\bin\Debug\net6.0\task4.pdb
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\task4.AssemblyInfoInputs.cache
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\task4.AssemblyInfo.cs
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\task4.csproj.CoreCompileInputs.cache
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\task4.dll
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\refint\task4.dll
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\task4.pdb
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\task4.genruntimeconfig.cache
+F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\1\практическая часть\task4\task4\obj\Debug\net6.0\ref\task4.dll
