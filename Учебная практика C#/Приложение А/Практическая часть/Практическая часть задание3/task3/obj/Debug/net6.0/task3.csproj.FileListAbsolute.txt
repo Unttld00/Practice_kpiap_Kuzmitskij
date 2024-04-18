@@ -12,3 +12,18 @@ F:\учеба ГГКТТиД\практика кпияп\Учебная прак
 F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Практическая часть задание3\task3\obj\Debug\net6.0\task3.pdb
 F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Практическая часть задание3\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
 F:\учеба ГГКТТиД\практика кпияп\Учебная практика C#\Приложение А\Практическая часть задание3\task3\obj\Debug\net6.0\ref\task3.dll
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\Приложение А\Практическая часть\Практическая часть задание3\task3\bin\Debug\net6.0\task3.exe
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\Приложение А\Практическая часть\Практическая часть задание3\task3\bin\Debug\net6.0\task3.deps.json
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\Приложение А\Практическая часть\Практическая часть задание3\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\Приложение А\Практическая часть\Практическая часть задание3\task3\bin\Debug\net6.0\task3.dll
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\Приложение А\Практическая часть\Практическая часть задание3\task3\bin\Debug\net6.0\task3.pdb
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\Приложение А\Практическая часть\Практическая часть задание3\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\Приложение А\Практическая часть\Практическая часть задание3\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\Приложение А\Практическая часть\Практическая часть задание3\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\Приложение А\Практическая часть\Практическая часть задание3\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\Приложение А\Практическая часть\Практическая часть задание3\task3\obj\Debug\net6.0\task3.sourcelink.json
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\Приложение А\Практическая часть\Практическая часть задание3\task3\obj\Debug\net6.0\task3.dll
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\Приложение А\Практическая часть\Практическая часть задание3\task3\obj\Debug\net6.0\refint\task3.dll
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\Приложение А\Практическая часть\Практическая часть задание3\task3\obj\Debug\net6.0\task3.pdb
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\Приложение А\Практическая часть\Практическая часть задание3\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\Приложение А\Практическая часть\Практическая часть задание3\task3\obj\Debug\net6.0\ref\task3.dll
