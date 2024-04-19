@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\учеба ГГКТТиД\\практика кпияп\\Учебная практика C#\\Приложение А\\Практическая часть задание 4\\task4\\task4.csproj": {}
+    "E:\\Практика кпияп гит\\Practice_kpiap_Kuzmitskij\\Учебная практика C#\\Приложение А\\Практическая часть\\Практическая часть задание 4\\task4\\task4.csproj": {}
   },
   "projects": {
-    "F:\\учеба ГГКТТиД\\практика кпияп\\Учебная практика C#\\Приложение А\\Практическая часть задание 4\\task4\\task4.csproj": {
+    "E:\\Практика кпияп гит\\Practice_kpiap_Kuzmitskij\\Учебная практика C#\\Приложение А\\Практическая часть\\Практическая часть задание 4\\task4\\task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\учеба ГГКТТиД\\практика кпияп\\Учебная практика C#\\Приложение А\\Практическая часть задание 4\\task4\\task4.csproj",
+        "projectUniqueName": "E:\\Практика кпияп гит\\Practice_kpiap_Kuzmitskij\\Учебная практика C#\\Приложение А\\Практическая часть\\Практическая часть задание 4\\task4\\task4.csproj",
         "projectName": "task4",
-        "projectPath": "F:\\учеба ГГКТТиД\\практика кпияп\\Учебная практика C#\\Приложение А\\Практическая часть задание 4\\task4\\task4.csproj",
-        "packagesPath": "C:\\Users\\Fellikegod\\.nuget\\packages\\",
-        "outputPath": "F:\\учеба ГГКТТиД\\практика кпияп\\Учебная практика C#\\Приложение А\\Практическая часть задание 4\\task4\\obj\\",
+        "projectPath": "E:\\Практика кпияп гит\\Practice_kpiap_Kuzmitskij\\Учебная практика C#\\Приложение А\\Практическая часть\\Практическая часть задание 4\\task4\\task4.csproj",
+        "packagesPath": "C:\\Users\\Daniil\\.nuget\\packages\\",
+        "outputPath": "E:\\Практика кпияп гит\\Practice_kpiap_Kuzmitskij\\Учебная практика C#\\Приложение А\\Практическая часть\\Практическая часть задание 4\\task4\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\VS\\общие компоненты\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Fellikegod\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Daniil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
