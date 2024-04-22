@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\учеба ГГКТТиД\\практика кпияп\\Учебная практика C#\\2\\task2\\task2\\task2.csproj": {}
+    "F:\\учеба ГГКТТиД\\Практика кпияп гит\\Practice_kpiap_Kuzmitskij\\Учебная практика C#\\2\\task2\\task2\\task2.csproj": {}
   },
   "projects": {
-    "F:\\учеба ГГКТТиД\\практика кпияп\\Учебная практика C#\\2\\task2\\task2\\task2.csproj": {
+    "F:\\учеба ГГКТТиД\\Практика кпияп гит\\Practice_kpiap_Kuzmitskij\\Учебная практика C#\\2\\task2\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\учеба ГГКТТиД\\практика кпияп\\Учебная практика C#\\2\\task2\\task2\\task2.csproj",
+        "projectUniqueName": "F:\\учеба ГГКТТиД\\Практика кпияп гит\\Practice_kpiap_Kuzmitskij\\Учебная практика C#\\2\\task2\\task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "F:\\учеба ГГКТТиД\\практика кпияп\\Учебная практика C#\\2\\task2\\task2\\task2.csproj",
+        "projectPath": "F:\\учеба ГГКТТиД\\Практика кпияп гит\\Practice_kpiap_Kuzmitskij\\Учебная практика C#\\2\\task2\\task2\\task2.csproj",
         "packagesPath": "C:\\Users\\Fellikegod\\.nuget\\packages\\",
-        "outputPath": "F:\\учеба ГГКТТиД\\практика кпияп\\Учебная практика C#\\2\\task2\\task2\\obj\\",
+        "outputPath": "F:\\учеба ГГКТТиД\\Практика кпияп гит\\Practice_kpiap_Kuzmitskij\\Учебная практика C#\\2\\task2\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VS\\общие компоненты\\NuGetPackages"

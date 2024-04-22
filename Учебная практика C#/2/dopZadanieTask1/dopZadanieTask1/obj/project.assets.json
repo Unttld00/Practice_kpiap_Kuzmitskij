@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\учеба ГГКТТиД\\практика кпияп\\Учебная практика C#\\2\\dopZadanieTask1\\dopZadanieTask1\\dopZadanieTask1.csproj",
+      "projectUniqueName": "F:\\учеба ГГКТТиД\\Практика кпияп гит\\Practice_kpiap_Kuzmitskij\\Учебная практика C#\\2\\dopZadanieTask1\\dopZadanieTask1\\dopZadanieTask1.csproj",
       "projectName": "dopZadanieTask1",
-      "projectPath": "F:\\учеба ГГКТТиД\\практика кпияп\\Учебная практика C#\\2\\dopZadanieTask1\\dopZadanieTask1\\dopZadanieTask1.csproj",
+      "projectPath": "F:\\учеба ГГКТТиД\\Практика кпияп гит\\Practice_kpiap_Kuzmitskij\\Учебная практика C#\\2\\dopZadanieTask1\\dopZadanieTask1\\dopZadanieTask1.csproj",
       "packagesPath": "C:\\Users\\Fellikegod\\.nuget\\packages\\",
-      "outputPath": "F:\\учеба ГГКТТиД\\практика кпияп\\Учебная практика C#\\2\\dopZadanieTask1\\dopZadanieTask1\\obj\\",
+      "outputPath": "F:\\учеба ГГКТТиД\\Практика кпияп гит\\Practice_kpiap_Kuzmitskij\\Учебная практика C#\\2\\dopZadanieTask1\\dopZadanieTask1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VS\\общие компоненты\\NuGetPackages"

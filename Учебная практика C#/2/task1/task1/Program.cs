@@ -30,6 +30,7 @@
     {
         static void Main()
         {
+
             A obj = new A(1, 8);
             Console.WriteLine("Значение выражения (b-2)/(2-a): " + obj.CalculateDivide());
             Console.WriteLine("Значение a в степени 1/10: " + obj.CalculateSqrt10());
