@@ -1,0 +1,14 @@
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\dopZadanie\dopZadanie\bin\Debug\net6.0\dopZadanie.exe
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\dopZadanie\dopZadanie\bin\Debug\net6.0\dopZadanie.deps.json
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\dopZadanie\dopZadanie\bin\Debug\net6.0\dopZadanie.runtimeconfig.json
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\dopZadanie\dopZadanie\bin\Debug\net6.0\dopZadanie.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\dopZadanie\dopZadanie\bin\Debug\net6.0\dopZadanie.pdb
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\dopZadanie\dopZadanie\obj\Debug\net6.0\dopZadanie.GeneratedMSBuildEditorConfig.editorconfig
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\dopZadanie\dopZadanie\obj\Debug\net6.0\dopZadanie.AssemblyInfoInputs.cache
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\dopZadanie\dopZadanie\obj\Debug\net6.0\dopZadanie.AssemblyInfo.cs
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\dopZadanie\dopZadanie\obj\Debug\net6.0\dopZadanie.csproj.CoreCompileInputs.cache
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\dopZadanie\dopZadanie\obj\Debug\net6.0\dopZadanie.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\dopZadanie\dopZadanie\obj\Debug\net6.0\refint\dopZadanie.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\dopZadanie\dopZadanie\obj\Debug\net6.0\dopZadanie.pdb
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\dopZadanie\dopZadanie\obj\Debug\net6.0\dopZadanie.genruntimeconfig.cache
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\dopZadanie\dopZadanie\obj\Debug\net6.0\ref\dopZadanie.dll
