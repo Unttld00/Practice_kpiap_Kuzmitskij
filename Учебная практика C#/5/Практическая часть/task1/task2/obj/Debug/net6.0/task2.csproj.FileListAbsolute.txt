@@ -1,0 +1,15 @@
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\task2\bin\Debug\net6.0\task2.exe
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\task2\bin\Debug\net6.0\task2.deps.json
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\task2\bin\Debug\net6.0\task2.dll
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\task2\bin\Debug\net6.0\task2.pdb
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\task2\obj\Debug\net6.0\task2.sourcelink.json
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\task2\obj\Debug\net6.0\task2.dll
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\task2\obj\Debug\net6.0\refint\task2.dll
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\task2\obj\Debug\net6.0\task2.pdb
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\5\Практическая часть\task1\task2\obj\Debug\net6.0\ref\task2.dll
