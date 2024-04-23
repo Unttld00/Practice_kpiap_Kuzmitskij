@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F \u0433\u0438\u0442\\Practice_kpiap_Kuzmitskij\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\6\\task2\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68277695-6677-4EAE-8B1B-D4245089EFEE}|ConsoleApp1.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F \u0433\u0438\u0442\\practice_kpiap_kuzmitskij\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\6\\task2\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68277695-6677-4EAE-8B1B-D4245089EFEE}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68277695-6677-4EAE-8B1B-D4245089EFEE}|ConsoleApp1.csproj|e:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F \u0433\u0438\u0442\\practice_kpiap_kuzmitskij\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 c#\\6\\task2\\consoleapp1\\consoleapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{68277695-6677-4EAE-8B1B-D4245089EFEE}|ConsoleApp1.csproj|solutionrelative:consoleapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F \u0433\u0438\u0442\\Practice_kpiap_Kuzmitskij\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\6\\task2\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F \u0433\u0438\u0442\\Practice_kpiap_Kuzmitskij\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\6\\task2\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T06:41:49.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F \u0433\u0438\u0442\\Practice_kpiap_Kuzmitskij\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\6\\task2\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F \u0433\u0438\u0442\\Practice_kpiap_Kuzmitskij\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 C#\\6\\task2\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:37:11.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
