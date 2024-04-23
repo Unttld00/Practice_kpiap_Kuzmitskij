@@ -28,7 +28,7 @@
             string commonWord = null;
             foreach (var sentence in sentences)
             {
-                Console.WriteLine(sentence);
+                
                 string[] words = sentence.Trim().Split(' ');
                 if (commonWord == null)
                 {

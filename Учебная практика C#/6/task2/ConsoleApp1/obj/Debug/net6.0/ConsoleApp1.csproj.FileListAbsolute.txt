@@ -13,3 +13,17 @@ E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная �
 E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
 E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 E:\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\6\task2\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
