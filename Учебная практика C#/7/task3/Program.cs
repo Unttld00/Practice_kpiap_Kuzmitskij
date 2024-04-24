@@ -1,20 +1,20 @@
-﻿using System.Text.RegularExpressions;
-
-namespace task3
+﻿namespace task3
 {
+    using System.Text.RegularExpressions;
     internal class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Введите строку: ");
             string text = Console.ReadLine();
-            Regex reg = new Regex(@"#{1}\w+");
-            MatchCollection cock = reg.Matches(text);
-            foreach (Match match in cock)
+            MatchCollection matches = Regex.Matches(text, @"\b\w+ing\b");
+
+            Console.WriteLine("Слова, заканчивающиеся на -ing: ");
+            foreach (Match match in matches)
             {
-                Console.WriteLine(match.Value);            
+                Console.WriteLine(match.Value);
             }
-            Console.ReadKey();
+            
         }
     }
 }

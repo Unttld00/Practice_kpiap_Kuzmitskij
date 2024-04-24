@@ -7,13 +7,14 @@
         {
             Console.WriteLine("Введите строку: ");
             string text = Console.ReadLine();
-            Regex reg = new Regex(@"\w+(ing)$");
-            MatchCollection cock = reg.Matches(text);
-            foreach (Match match in cock)
+            Regex reg = new Regex(@"\d+");
+            MatchCollection matches = reg.Matches(text);
+            Console.WriteLine("Числа, извлеченные из строки: ");
+            foreach (Match match in matches)
             {
                 Console.WriteLine(match.Value);
             }
-            Console.ReadKey();
+
         }
     }
 }
