@@ -1,0 +1,34 @@
+D:\Practic_KPIAP\Dylyk_25\zad2\bin\Debug\zad2.exe.config
+D:\Practic_KPIAP\Dylyk_25\zad2\bin\Debug\zad2.exe
+D:\Practic_KPIAP\Dylyk_25\zad2\bin\Debug\zad2.pdb
+D:\Practic_KPIAP\Dylyk_25\zad2\obj\Debug\zad2.csproj.AssemblyReference.cache
+D:\Practic_KPIAP\Dylyk_25\zad2\obj\Debug\MainWindow.g.cs
+D:\Practic_KPIAP\Dylyk_25\zad2\obj\Debug\App.g.cs
+D:\Practic_KPIAP\Dylyk_25\zad2\obj\Debug\zad2_MarkupCompile.cache
+D:\Practic_KPIAP\Dylyk_25\zad2\obj\Debug\zad2_MarkupCompile.lref
+D:\Practic_KPIAP\Dylyk_25\zad2\obj\Debug\MainWindow.baml
+D:\Practic_KPIAP\Dylyk_25\zad2\obj\Debug\zad2.g.resources
+D:\Practic_KPIAP\Dylyk_25\zad2\obj\Debug\zad2.Properties.Resources.resources
+D:\Practic_KPIAP\Dylyk_25\zad2\obj\Debug\zad2.csproj.GenerateResource.cache
+D:\Practic_KPIAP\Dylyk_25\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+D:\Practic_KPIAP\Dylyk_25\zad2\obj\Debug\zad2.exe
+D:\Practic_KPIAP\Dylyk_25\zad2\obj\Debug\zad2.pdb
+D:\Practic_KPIAP\Dylyk_25\zad2\obj\Debug\AboutApp.g.cs
+D:\Practic_KPIAP\Dylyk_25\zad2\obj\Debug\AboutApp.baml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\bin\Debug\zad2.exe.config
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\bin\Debug\zad2.exe
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\bin\Debug\zad2.pdb
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\obj\Debug\zad2.csproj.AssemblyReference.cache
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\obj\Debug\AboutApp.g.cs
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\obj\Debug\MainWindow.g.cs
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\obj\Debug\App.g.cs
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\obj\Debug\zad2_MarkupCompile.cache
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\obj\Debug\zad2_MarkupCompile.lref
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\obj\Debug\AboutApp.baml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\obj\Debug\MainWindow.baml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\obj\Debug\zad2.g.resources
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\obj\Debug\zad2.Properties.Resources.resources
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\obj\Debug\zad2.csproj.GenerateResource.cache
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\obj\Debug\zad2.exe
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad2\obj\Debug\zad2.pdb

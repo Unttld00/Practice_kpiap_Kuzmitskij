@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema33\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|d:\\projects\\c#\\practice_csharp\\tema33\\task1\\contexts\\touristcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|solutionrelative:task1\\contexts\\touristcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema33\\task1\\models\\tourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|solutionrelative:task1\\models\\tourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema33\\task1\\contexts\\touristinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|solutionrelative:task1\\contexts\\touristinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema33\\task1\\contexts\\paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|solutionrelative:task1\\contexts\\paymentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema33\\task1\\contexts\\packagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|solutionrelative:task1\\contexts\\packagecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema33\\task1\\contexts\\seasoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|solutionrelative:task1\\contexts\\seasoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema33\\task1\\contexts\\tourcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|solutionrelative:task1\\contexts\\tourcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema33\\task1\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|solutionrelative:task1\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema33\\task1\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|solutionrelative:task1\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema33\\task1\\models\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|solutionrelative:task1\\models\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema33\\task1\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|solutionrelative:task1\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema33\\task1\\models\\touristinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5B3920-FF49-42A2-9856-043299E59EF7}|Task1\\Task1.csproj|solutionrelative:task1\\models\\touristinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TouristInfoContext.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Contexts\\TouristInfoContext.cs",
+              "RelativeDocumentMoniker": "Task1\\Contexts\\TouristInfoContext.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Contexts\\TouristInfoContext.cs",
+              "RelativeToolTip": "Task1\\Contexts\\TouristInfoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:42:33.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentContext.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Contexts\\PaymentContext.cs",
+              "RelativeDocumentMoniker": "Task1\\Contexts\\PaymentContext.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Contexts\\PaymentContext.cs",
+              "RelativeToolTip": "Task1\\Contexts\\PaymentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:42:16.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PackageContext.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Contexts\\PackageContext.cs",
+              "RelativeDocumentMoniker": "Task1\\Contexts\\PackageContext.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Contexts\\PackageContext.cs",
+              "RelativeToolTip": "Task1\\Contexts\\PackageContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:41:57.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeasonContext.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Contexts\\SeasonContext.cs",
+              "RelativeDocumentMoniker": "Task1\\Contexts\\SeasonContext.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Contexts\\SeasonContext.cs",
+              "RelativeToolTip": "Task1\\Contexts\\SeasonContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:41:28.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TourContext.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Contexts\\TourContext.cs",
+              "RelativeDocumentMoniker": "Task1\\Contexts\\TourContext.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Contexts\\TourContext.cs",
+              "RelativeToolTip": "Task1\\Contexts\\TourContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:40:57.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TouristContext.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Contexts\\TouristContext.cs",
+              "RelativeDocumentMoniker": "Task1\\Contexts\\TouristContext.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Contexts\\TouristContext.cs",
+              "RelativeToolTip": "Task1\\Contexts\\TouristContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:56:57.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tourist.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Models\\Tourist.cs",
+              "RelativeDocumentMoniker": "Task1\\Models\\Tourist.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Models\\Tourist.cs",
+              "RelativeToolTip": "Task1\\Models\\Tourist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:52:16.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Package.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Models\\Package.cs",
+              "RelativeDocumentMoniker": "Task1\\Models\\Package.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Models\\Package.cs",
+              "RelativeToolTip": "Task1\\Models\\Package.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:46:33.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Task1\\Models\\Payment.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Models\\Payment.cs",
+              "RelativeToolTip": "Task1\\Models\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:46:08.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Season.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Models\\Season.cs",
+              "RelativeDocumentMoniker": "Task1\\Models\\Season.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Models\\Season.cs",
+              "RelativeToolTip": "Task1\\Models\\Season.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:45:37.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TouristInfo.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Models\\TouristInfo.cs",
+              "RelativeDocumentMoniker": "Task1\\Models\\TouristInfo.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Models\\TouristInfo.cs",
+              "RelativeToolTip": "Task1\\Models\\TouristInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:44:58.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "Task1\\Models\\Tour.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Models\\Tour.cs",
+              "RelativeToolTip": "Task1\\Models\\Tour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:52:15.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema33\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:35:49.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

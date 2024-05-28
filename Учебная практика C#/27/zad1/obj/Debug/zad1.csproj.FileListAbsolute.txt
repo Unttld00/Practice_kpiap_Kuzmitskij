@@ -1,0 +1,196 @@
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\zad1.exe.config
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\zad1.exe
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\zad1.pdb
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\MainWindow.g.cs
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\App.g.cs
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1_MarkupCompile.cache
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1_MarkupCompile.lref
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\MainWindow.baml
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.g.resources
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.Properties.Resources.resources
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.csproj.GenerateResource.cache
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.exe
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.pdb
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Owin.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Owin.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Buffers.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Memory.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Numerics.Vectors.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.ValueTuple.dll
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\Microsoft.Owin.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Buffers.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Memory.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Numerics.Vectors.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\bin\Debug\System.ValueTuple.xml
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\zad1.csproj.Up2Date
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\AddFlightForm.g.cs
+D:\Practic_KPIAP\Dylyk_26\zad1\obj\Debug\AddFlightForm.baml
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\zad1.exe.config
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\zad1.exe
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\zad1.pdb
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Owin.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Owin.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\System.Buffers.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\System.Memory.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\System.Numerics.Vectors.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\System.ValueTuple.dll
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\Microsoft.Owin.xml
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\System.Buffers.xml
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\System.Memory.xml
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\System.Numerics.Vectors.xml
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Practic_KPIAP\Dylyk_27\zad1\bin\Debug\System.ValueTuple.xml
+D:\Practic_KPIAP\Dylyk_27\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+D:\Practic_KPIAP\Dylyk_27\zad1\obj\Debug\AddFlightForm.g.cs
+D:\Practic_KPIAP\Dylyk_27\zad1\obj\Debug\MainWindow.g.cs
+D:\Practic_KPIAP\Dylyk_27\zad1\obj\Debug\App.g.cs
+D:\Practic_KPIAP\Dylyk_27\zad1\obj\Debug\zad1_MarkupCompile.cache
+D:\Practic_KPIAP\Dylyk_27\zad1\obj\Debug\zad1_MarkupCompile.lref
+D:\Practic_KPIAP\Dylyk_27\zad1\obj\Debug\AddFlightForm.baml
+D:\Practic_KPIAP\Dylyk_27\zad1\obj\Debug\MainWindow.baml
+D:\Practic_KPIAP\Dylyk_27\zad1\obj\Debug\zad1.g.resources
+D:\Practic_KPIAP\Dylyk_27\zad1\obj\Debug\zad1.Properties.Resources.resources
+D:\Practic_KPIAP\Dylyk_27\zad1\obj\Debug\zad1.csproj.GenerateResource.cache
+D:\Practic_KPIAP\Dylyk_27\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+D:\Practic_KPIAP\Dylyk_27\zad1\obj\Debug\zad1.csproj.Up2Date
+D:\Practic_KPIAP\Dylyk_27\zad1\obj\Debug\zad1.exe
+D:\Practic_KPIAP\Dylyk_27\zad1\obj\Debug\zad1.pdb
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\zad1.exe.config
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\zad1.exe
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\zad1.pdb
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Options.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Owin.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Owin.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\System.Buffers.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\System.Memory.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\System.Numerics.Vectors.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\System.ValueTuple.dll
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Options.xml
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\Microsoft.Owin.xml
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\System.Buffers.xml
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\System.Memory.xml
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\System.Numerics.Vectors.xml
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\практика кпияп до 28\Dylyk_27\zad1\bin\Debug\System.ValueTuple.xml
+D:\практика кпияп до 28\Dylyk_27\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+D:\практика кпияп до 28\Dylyk_27\zad1\obj\Debug\AddFlightForm.g.cs
+D:\практика кпияп до 28\Dylyk_27\zad1\obj\Debug\MainWindow.g.cs
+D:\практика кпияп до 28\Dylyk_27\zad1\obj\Debug\App.g.cs
+D:\практика кпияп до 28\Dylyk_27\zad1\obj\Debug\zad1_MarkupCompile.cache
+D:\практика кпияп до 28\Dylyk_27\zad1\obj\Debug\zad1_MarkupCompile.lref
+D:\практика кпияп до 28\Dylyk_27\zad1\obj\Debug\AddFlightForm.baml
+D:\практика кпияп до 28\Dylyk_27\zad1\obj\Debug\MainWindow.baml
+D:\практика кпияп до 28\Dylyk_27\zad1\obj\Debug\zad1.g.resources
+D:\практика кпияп до 28\Dylyk_27\zad1\obj\Debug\zad1.Properties.Resources.resources
+D:\практика кпияп до 28\Dylyk_27\zad1\obj\Debug\zad1.csproj.GenerateResource.cache
+D:\практика кпияп до 28\Dylyk_27\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+D:\практика кпияп до 28\Dylyk_27\zad1\obj\Debug\zad1.csproj.CopyComplete
+D:\практика кпияп до 28\Dylyk_27\zad1\obj\Debug\zad1.exe
+D:\практика кпияп до 28\Dylyk_27\zad1\obj\Debug\zad1.pdb
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\zad1.exe.config
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\zad1.exe
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\zad1.pdb
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Extensions.Options.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Owin.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Owin.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\System.Buffers.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\System.Memory.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\System.Numerics.Vectors.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\System.ValueTuple.dll
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Extensions.Options.xml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\Microsoft.Owin.xml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\System.Buffers.xml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\System.Memory.xml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\System.Numerics.Vectors.xml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\bin\Debug\System.ValueTuple.xml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\obj\Debug\AddFlightForm.g.cs
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\obj\Debug\MainWindow.g.cs
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\obj\Debug\App.g.cs
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\obj\Debug\zad1_MarkupCompile.cache
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\obj\Debug\zad1_MarkupCompile.lref
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\obj\Debug\AddFlightForm.baml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\obj\Debug\MainWindow.baml
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\obj\Debug\zad1.g.resources
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\obj\Debug\zad1.Properties.Resources.resources
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\obj\Debug\zad1.csproj.GenerateResource.cache
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\obj\Debug\zad1.csproj.CopyComplete
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\obj\Debug\zad1.exe
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\27\zad1\obj\Debug\zad1.pdb

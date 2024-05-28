@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "re2myHhe0tQyPDCYqfGly8rJUmE997/TnVnBoSfpR2K5VXCxK24L1vGNpkNaQbo7OhJc96ttT8lM8/b0CLWX6Q==",
+  "success": true,
+  "projectFilePath": "F:\\учеба ГГКТТиД\\Практика кпияп гит\\Practice_kpiap_Kuzmitskij\\Учебная практика C#\\26\\Task1\\Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fellikegod\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fellikegod\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fellikegod\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fellikegod\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fellikegod\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Fellikegod\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

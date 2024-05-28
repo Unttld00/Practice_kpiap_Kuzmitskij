@@ -1,0 +1,15 @@
+D:\Practic_KPIAP\Dylyk_15\zad3\bin\Debug\net8.0\zad3.exe
+D:\Practic_KPIAP\Dylyk_15\zad3\bin\Debug\net8.0\zad3.deps.json
+D:\Practic_KPIAP\Dylyk_15\zad3\bin\Debug\net8.0\zad3.runtimeconfig.json
+D:\Practic_KPIAP\Dylyk_15\zad3\bin\Debug\net8.0\zad3.dll
+D:\Practic_KPIAP\Dylyk_15\zad3\bin\Debug\net8.0\zad3.pdb
+D:\Practic_KPIAP\Dylyk_15\zad3\obj\Debug\net8.0\zad3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practic_KPIAP\Dylyk_15\zad3\obj\Debug\net8.0\zad3.AssemblyInfoInputs.cache
+D:\Practic_KPIAP\Dylyk_15\zad3\obj\Debug\net8.0\zad3.AssemblyInfo.cs
+D:\Practic_KPIAP\Dylyk_15\zad3\obj\Debug\net8.0\zad3.csproj.CoreCompileInputs.cache
+D:\Practic_KPIAP\Dylyk_15\zad3\obj\Debug\net8.0\zad3.sourcelink.json
+D:\Practic_KPIAP\Dylyk_15\zad3\obj\Debug\net8.0\zad3.dll
+D:\Practic_KPIAP\Dylyk_15\zad3\obj\Debug\net8.0\refint\zad3.dll
+D:\Practic_KPIAP\Dylyk_15\zad3\obj\Debug\net8.0\zad3.pdb
+D:\Practic_KPIAP\Dylyk_15\zad3\obj\Debug\net8.0\zad3.genruntimeconfig.cache
+D:\Practic_KPIAP\Dylyk_15\zad3\obj\Debug\net8.0\ref\zad3.dll

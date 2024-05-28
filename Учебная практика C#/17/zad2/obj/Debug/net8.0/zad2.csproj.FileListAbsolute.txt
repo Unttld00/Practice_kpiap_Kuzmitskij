@@ -1,0 +1,15 @@
+D:\Practic_KPIAP\Dylyk_17\zad2\bin\Debug\net8.0\zad2.exe
+D:\Practic_KPIAP\Dylyk_17\zad2\bin\Debug\net8.0\zad2.deps.json
+D:\Practic_KPIAP\Dylyk_17\zad2\bin\Debug\net8.0\zad2.runtimeconfig.json
+D:\Practic_KPIAP\Dylyk_17\zad2\bin\Debug\net8.0\zad2.dll
+D:\Practic_KPIAP\Dylyk_17\zad2\bin\Debug\net8.0\zad2.pdb
+D:\Practic_KPIAP\Dylyk_17\zad2\obj\Debug\net8.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practic_KPIAP\Dylyk_17\zad2\obj\Debug\net8.0\zad2.AssemblyInfoInputs.cache
+D:\Practic_KPIAP\Dylyk_17\zad2\obj\Debug\net8.0\zad2.AssemblyInfo.cs
+D:\Practic_KPIAP\Dylyk_17\zad2\obj\Debug\net8.0\zad2.csproj.CoreCompileInputs.cache
+D:\Practic_KPIAP\Dylyk_17\zad2\obj\Debug\net8.0\zad2.sourcelink.json
+D:\Practic_KPIAP\Dylyk_17\zad2\obj\Debug\net8.0\zad2.dll
+D:\Practic_KPIAP\Dylyk_17\zad2\obj\Debug\net8.0\refint\zad2.dll
+D:\Practic_KPIAP\Dylyk_17\zad2\obj\Debug\net8.0\zad2.pdb
+D:\Practic_KPIAP\Dylyk_17\zad2\obj\Debug\net8.0\zad2.genruntimeconfig.cache
+D:\Practic_KPIAP\Dylyk_17\zad2\obj\Debug\net8.0\ref\zad2.dll

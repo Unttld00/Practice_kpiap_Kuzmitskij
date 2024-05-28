@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practic_KPIAP\\Dylyk_18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20D60B65-7C4E-4D8B-BA59-16BAD9ABDDB9}|zad4\\zad4.csproj|d:\\practic_kpiap\\dylyk_18\\zad4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D60B65-7C4E-4D8B-BA59-16BAD9ABDDB9}|zad4\\zad4.csproj|solutionrelative:zad4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33DF922-FB28-46BF-B94A-DC4A97DA1A3A}|zad3\\zad3.csproj|d:\\practic_kpiap\\dylyk_18\\zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33DF922-FB28-46BF-B94A-DC4A97DA1A3A}|zad3\\zad3.csproj|solutionrelative:zad3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF75D4F-0E39-44EA-8245-6451BF466D26}|zad2\\zad2.csproj|d:\\practic_kpiap\\dylyk_18\\zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF75D4F-0E39-44EA-8245-6451BF466D26}|zad2\\zad2.csproj|solutionrelative:zad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641C9014-BD2D-41BF-9E3A-40DA5BC38964}|zad1\\zad1.csproj|d:\\practic_kpiap\\dylyk_18\\zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641C9014-BD2D-41BF-9E3A-40DA5BC38964}|zad1\\zad1.csproj|solutionrelative:zad1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 372,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 123,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practic_KPIAP\\Dylyk_18\\zad4\\Program.cs",
+              "RelativeDocumentMoniker": "zad4\\Program.cs",
+              "ToolTip": "D:\\Practic_KPIAP\\Dylyk_18\\zad4\\Program.cs",
+              "RelativeToolTip": "zad4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:01:34.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practic_KPIAP\\Dylyk_18\\zad3\\Program.cs",
+              "RelativeDocumentMoniker": "zad3\\Program.cs",
+              "ToolTip": "D:\\Practic_KPIAP\\Dylyk_18\\zad3\\Program.cs",
+              "RelativeToolTip": "zad3\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:56:04.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practic_KPIAP\\Dylyk_18\\zad2\\Program.cs",
+              "RelativeDocumentMoniker": "zad2\\Program.cs",
+              "ToolTip": "D:\\Practic_KPIAP\\Dylyk_18\\zad2\\Program.cs",
+              "RelativeToolTip": "zad2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:48:13.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practic_KPIAP\\Dylyk_18\\zad1\\Program.cs",
+              "RelativeDocumentMoniker": "zad1\\Program.cs",
+              "ToolTip": "D:\\Practic_KPIAP\\Dylyk_18\\zad1\\Program.cs",
+              "RelativeToolTip": "zad1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:40:45.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

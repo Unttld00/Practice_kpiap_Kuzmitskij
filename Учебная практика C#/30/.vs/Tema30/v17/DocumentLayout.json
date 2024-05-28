@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|d:\\projects\\c#\\practice_csharp\\tema30\\task1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|solutionrelative:task1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema30\\task1\\updatetouristwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|solutionrelative:task1\\updatetouristwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema30\\task1\\deletetourwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|solutionrelative:task1\\deletetourwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema30\\task1\\updatetouristwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|solutionrelative:task1\\updatetouristwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema30\\task1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|solutionrelative:task1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema30\\task1\\deletetourwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|solutionrelative:task1\\deletetourwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema30\\task1\\addtouristwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|solutionrelative:task1\\addtouristwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|D:\\Projects\\C#\\Practice_CSharp\\Tema30\\task1\\addtouristwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A8E817C-F4C5-48EB-91C5-0C2B7CA6D01C}|Task1\\Task1.csproj|solutionrelative:task1\\addtouristwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateTouristWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\UpdateTouristWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task1\\UpdateTouristWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\UpdateTouristWindow.xaml.cs",
+              "RelativeToolTip": "Task1\\UpdateTouristWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:44:34.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateTouristWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\UpdateTouristWindow.xaml",
+              "RelativeDocumentMoniker": "Task1\\UpdateTouristWindow.xaml",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\UpdateTouristWindow.xaml",
+              "RelativeToolTip": "Task1\\UpdateTouristWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T10:35:57.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteTourWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\DeleteTourWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task1\\DeleteTourWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\DeleteTourWindow.xaml.cs",
+              "RelativeToolTip": "Task1\\DeleteTourWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:25:08.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteTourWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\DeleteTourWindow.xaml",
+              "RelativeDocumentMoniker": "Task1\\DeleteTourWindow.xaml",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\DeleteTourWindow.xaml",
+              "RelativeToolTip": "Task1\\DeleteTourWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T10:20:34.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddTouristWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\AddTouristWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task1\\AddTouristWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\AddTouristWindow.xaml.cs",
+              "RelativeToolTip": "Task1\\AddTouristWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:54:27.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddTouristWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\AddTouristWindow.xaml",
+              "RelativeDocumentMoniker": "Task1\\AddTouristWindow.xaml",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\AddTouristWindow.xaml",
+              "RelativeToolTip": "Task1\\AddTouristWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T09:54:14.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task1\\MainWindow.xaml",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\MainWindow.xaml",
+              "RelativeToolTip": "Task1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T08:55:19.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\C#\\Practice_CSharp\\Tema30\\Task1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:55:16.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

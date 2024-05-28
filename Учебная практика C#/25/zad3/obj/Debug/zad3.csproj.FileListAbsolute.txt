@@ -1,0 +1,3 @@
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad3\obj\Debug\zad3.csproj.AssemblyReference.cache
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad3\obj\Debug\App.g.cs
+F:\учеба ГГКТТиД\Практика кпияп гит\Practice_kpiap_Kuzmitskij\Учебная практика C#\25\zad3\obj\Debug\zad3_MarkupCompile.cache

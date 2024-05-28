@@ -1,0 +1,10 @@
+D:\Practic_KPIAP\Dylyk_23\zad6\bin\Debug\zad6.exe.config
+D:\Practic_KPIAP\Dylyk_23\zad6\bin\Debug\zad6.exe
+D:\Practic_KPIAP\Dylyk_23\zad6\bin\Debug\zad6.pdb
+D:\Practic_KPIAP\Dylyk_23\zad6\obj\Debug\zad6.csproj.AssemblyReference.cache
+D:\Practic_KPIAP\Dylyk_23\zad6\obj\Debug\zad6.Form1.resources
+D:\Practic_KPIAP\Dylyk_23\zad6\obj\Debug\zad6.Properties.Resources.resources
+D:\Practic_KPIAP\Dylyk_23\zad6\obj\Debug\zad6.csproj.GenerateResource.cache
+D:\Practic_KPIAP\Dylyk_23\zad6\obj\Debug\zad6.csproj.CoreCompileInputs.cache
+D:\Practic_KPIAP\Dylyk_23\zad6\obj\Debug\zad6.exe
+D:\Practic_KPIAP\Dylyk_23\zad6\obj\Debug\zad6.pdb
